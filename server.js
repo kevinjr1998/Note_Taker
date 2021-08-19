@@ -3,9 +3,8 @@ var uniqid = require('uniqid');
 const path = require('path');
 const db = require("./db/db.json");
 const fs = require("fs");
-// const { json } = require("express");
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const app = express();
 app.use(express.json());
 
