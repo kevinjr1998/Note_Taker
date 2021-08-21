@@ -10,5 +10,3 @@ This task was to demonstrate my knowledge of express.js by making a note taking 
 
 ## Links
 [Link to Deployed Application](https://stark-headland-34041.herokuapp.com/)
-
-[Link to Repository](https://github.com/kevinjr1998/Note_Taker)
