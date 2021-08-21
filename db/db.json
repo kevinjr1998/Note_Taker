@@ -1,1 +1,17 @@
-[{"title":"test note","text":"lorem ipsum","note_id":"dp32vjd6gksf2kj94"},{"title":"test note ","text":"insert text here\n","note_id":"dp32vjbngksf31jb2"},{"title":"Pick up Mum","text":"Pick ipmum from Birmingham Airport at 3pm tomorrow","note_id":"dp32vjfhckshyoqqe"}]
+[
+    {
+      "title": "Finalise User Story",
+      "text": "Talk to client to finalise the requirements for our new web app\n",
+      "note_id": "73er6lmkslkhwz3"
+    },
+    {
+      "title": "Team Lunch",
+      "text": "Team lunch on 23rd September 13:00",
+      "note_id": "73er6lmkslkmlrj"
+    },
+    {
+      "title": "Update POST Request",
+      "text": "Update POST request on quiz application by 14th September; app to go live 17th September",
+      "note_id": "73er6lmksll6x4n"
+    }
+  ]

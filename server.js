@@ -37,6 +37,7 @@ app.delete(`/api/notes/:note_id`, (req, res) => {
          
       }
     }
+    //should never hit this code in normal use
     const response = {
       status: 'failure',
       body: 'note not found',
