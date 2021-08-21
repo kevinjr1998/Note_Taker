@@ -6,6 +6,8 @@ This task was to demonstrate my knowledge of express.js by making a note taking 
 
 ## Screenshot
 
+![Screenshot](./public/assets/Note_Taker_Screenshot.png)
+
 ## Links
 [Link to Deployed Application](https://stark-headland-34041.herokuapp.com/)
 
